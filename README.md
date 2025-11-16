@@ -1,5 +1,9 @@
 # Data-Analysis-Portfolio-
 
 About
+Hi, I'm Chorin! 
+Following are my projects in SQL, R, Python, Tableau & Excel
 
-This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. 
+Contact:
+email: chorinsun0@gmail.com
+LinkedIn: https://www.linkedin.com/in/chorin-sun-576518204/

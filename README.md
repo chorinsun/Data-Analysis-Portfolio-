@@ -19,7 +19,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Objective:** Optimize coupon distribution by identifying users with high purchase intent who are still evaluating their purchase, and deliver targeted coupons to encourage conversion.
 
-**Challenge/Problem** Coupons are currently being sent to users who have low or no purchase intent, resulting in minimal impact and wasteful distribution. The current targeting approach lacks sufficient selectiveness, causing coupon usage rates to be unpredictable. As a result, it becomes difficult to accurately estimate the appropriate number of recipients, leading to either an inability to use the full coupon budget or exceeding it unintentionally.
+**Challenge/Problem:** Through results from quantitative surveys, users reported two main reasons for not completing their purchase:
+  1. Product price is too high
+  2. Forgot to purchase before project had ended
+
+Coupons are currently being sent to users who have low or no purchase intent, resulting in minimal impact and wasteful distribution. The current targeting approach lacks sufficient selectiveness, causing coupon usage rates to be unpredictable. As a result, it becomes difficult to accurately estimate the appropriate number of recipients, leading to either an inability to use the full coupon budget or exceeding it unintentionally.
+
+
+**Solution:** Develop an algorithm that scores users from 0 to 10 on their purchase intent, based on their on-site behavior and past purchasing history
+
 
 **Description:** This project focused on creating an algorithm to score users on their purchasing intentions in our website.
 

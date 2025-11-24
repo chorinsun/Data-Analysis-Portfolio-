@@ -29,4 +29,7 @@ Previously, coupons were sent to users who have low or no purchasing intent, res
 **Solution:** Develop an algorithm that scores users from 0 to 10 on their purchasing intent, based on their on-site behavior and past purchasing history. Coupons are then delivered to users who have not yet purchased and have a score above 6, motivating them to convert and helping extend their lifetime value (LTV).
 
 
-**Results:**
+**Results:** After A/B testing across each scoring group, users who received a coupon generated 93% more GMV than those who did not, achieving a 132% campaign ROI (after costs) during the coupon validity period. ROI increased consistently with higher scoring groups, validating the algorithm’s ability to accurately identify users with strong purchase intent.
+
+
+The positive impact extended beyond the coupon window: even 90 days after the campaign, users who received the coupon continued to purchase 97% more than those who did not.
